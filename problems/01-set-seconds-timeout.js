@@ -22,7 +22,7 @@ setSecondsTimeout(function () {
     console.log('world');
 }, 1.4); // should print 'world' after 1400 milliseconds
 ***********************************************************************/
-
+//downloaded
 function setSecondsTimeout(cb, delayInSeconds) {
   // Your code here 
 }
